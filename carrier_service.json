@@ -1,0 +1,7 @@
+{
+    "carrier_service": {
+    "name": "Test2",
+    "callback_url": "http://c9baa217.ngrok.io/shopify/getRate",
+    "service_discovery": true
+    }
+}
